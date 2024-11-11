@@ -9,6 +9,7 @@ The app directory contains the neccesary script for deploying the model and also
 sample data to check if the models work. 
 
 Change Request body to this for cluster 0 
+
 {
   "order_hour": 14,
   "order_dayofweek": 2,
