@@ -38,4 +38,4 @@ To deploy the code locally on your own machine do the following:
 - Run the container using docker run -p 8000:8000 pizza-cluster-app
 - Go to the local server host and in the url add /docs
 - use the example request bodies to see results
-- 
+  
