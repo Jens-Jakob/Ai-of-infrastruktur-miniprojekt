@@ -7,6 +7,7 @@ Pre deployment models contain the source code before any implementation, and inc
 The app directory contains the neccesary script for deploying the model and also a directory for the models path. 
 
 sample data to check if the models work. 
+
 Change Request body to this for cluster 0 
 {
   "order_hour": 14,
